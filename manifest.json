@@ -8,6 +8,5 @@
     },
     "icons": {
         "128": "./media/icon.png"
-     },     
-    "permissions" : ["activeTab", "scripting"]
+     }
 }
